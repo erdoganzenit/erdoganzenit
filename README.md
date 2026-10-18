@@ -16,7 +16,7 @@
 
 <!-- 3. İLETİŞİM VE SİTE BUTONLARI -->
 <div align="center">
- alt="Portfolio" />
+ 
   </a>
   <a href="https://linkedin.com/in/erdoganzenit" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
