@@ -1,40 +1,34 @@
-<div align="right">
-  <a href="#"><img src="https://img.shields.io/badge/🇬🇧_English-10b981?style=for-the-badge&logoColor=white" alt="English" /></a>
-  <a href="README-tr.md"><img src="https://img.shields.io/badge/🇹🇷_Türkçe-040711?style=for-the-badge&logoColor=white" alt="Turkish" /></a>
-</div>
-
-<!-- HEADER BANNER -->
+<!-- 1. HAREKETLİ DALGALANAN ÜST BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:040711&height=180&section=header&text=Erdogan%20Zenit&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Electrical%20%26%20Electronics%20Engineering&descSize=18&descAlignY=65" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:040711&height=180&section=header&text=Erdogan%20Zenit&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Elektrik-Elektronik%20Muhendisligi%20Ogrencisi&descSize=18&descAlignY=65" width="100%" alt="Header Banner" />
 </div>
 
+<!-- 2. HAREKETLİ DAKTİLO (TYPING) EFEKTİ -->
 <div align="center">
   <a href="https://erdoganzenit.github.io" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Edge-AI+%26+TinyML+Developer;Embedded+Systems+%26+Hardware;Computer+Vision+(OpenCV);FastAPI+Backend+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Edge-AI+%26+TinyML+Gelistiricisi;Gomulu+Sistemler+%26+Donanim;Bilgisayarli+Goru+(OpenCV);FastAPI+Backend+Mimarileri" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <p><b>Developing scalable solutions to real-world engineering problems at the intersection of hardware and AI.</b></p>
+  <p><b>Donanım ve yapay zeka kesişiminde, gerçek dünyadaki mühendislik problemlerine ölçeklenebilir çözümler geliştiriyorum.</b></p>
 </div>
 
+<!-- 3. İLETİŞİM VE SİTE BUTONLARI -->
 <div align="center">
   <a href="https://erdoganzenit.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/INTERAKTIF_PORTFOLYO_SITEM-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/erdoganzenit" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ornek@email.com">
-    <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br/>
 
-### 🛠️ Tech Stack & Engineering Arsenal
+### 🛠️ Teknoloji & Mühendislik Cephaneliği
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,fastapi,opencv,ros,matlab,arduino,raspberrypi,linux,git,vscode&perline=12" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,fastapi,opencv,ros,matlab,arduino,git&perline=10" alt="Tech Icons" />
   <br/><br/>
   <img src="https://img.shields.io/badge/ESP32_&_Microcontrollers-050811?style=flat-square&logo=espressif&logoColor=10B981&border=10B981" />
   <img src="https://img.shields.io/badge/Edge_AI_&_TinyML-050811?style=flat-square&logo=tensorflow&logoColor=10B981" />
@@ -44,26 +38,22 @@
 
 <br/>
 
-### 🚀 Featured Projects & R&D
+### 🚀 Öne Çıkan Projeler & Ar-Ge Çalışmaları
 
-| Project / System | Focus Area | Technologies Used |
+| Proje / Sistem | Odak Alanı | Kullanılan Teknolojiler |
 | :--- | :--- | :--- |
-| **🫀 Wearable ECG/EMG & Edge-AI** | Biomedical Signal Processing | `ESP32` `TinyML` `C/C++` |
-| **🛰️ Spectra-CH4 TR** | Satellite Data Analytics | `Python` `Sentinel-2` `Streamlit` |
+| **🫀 Wearable ECG/EMG & Edge-AI** | Biyomedikal Sinyal İşleme | `ESP32` `TinyML` `C/C++` |
+| **🛰️ Spectra-CH4 TR** | Uydu Veri Analitiği | `Python` `Sentinel-2` `Streamlit` |
 | **⚡ FastAPI Task Manager** | Backend & RESTful API | `FastAPI` `Pydantic` `Python` |
-| **🗺️ Rural Line Optimization** | Geospatial Algorithm (SPARK) | `Python` `QGIS` |
+| **🗺️ Kırsal Line Optimizasyonu** | Coğrafi Algoritma (SPARK) | `Python` `QGIS` |
 
 <br/>
 
-### 📈 GitHub Live Metrics
+### 📈 GitHub Canlı Kodlama Metrikleri
 
 <div align="center">
+  <!-- GitHub İstatistikleri -->
   <img src="https://github-readme-stats.vercel.app/api?username=erdoganzenit&show_icons=true&hide_border=true&bg_color=040711&title_color=10B981&icon_color=6366F1&text_color=94a3b8" width="48%" alt="GitHub Stats" />
+  <!-- En Çok Kullanılan Diller -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdoganzenit&layout=compact&hide_border=true&bg_color=040711&title_color=10B981&text_color=94a3b8" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=erdoganzenit&theme=dark&hide_border=true&background=040711&ring=10B981&fire=10B981&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=94a3b8" width="100%" alt="GitHub Streak" />
 </div>
