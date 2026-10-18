@@ -8,8 +8,7 @@ Gaziantep Üniversitesi Elektrik-Elektronik Mühendisliği son sınıf öğrenci
 
 ### 🌐 Bağlantılarım
 * 💼 **LinkedIn:** [erdoganzenit](https://linkedin.com/in/erdoganzenit)
-* 🖥️ **Portfolyo Sitem:** [erdoganzenit.github.io](https://erdoganzenit.github.io)
-* ✉️ **E-posta:** ornek@email.com
+
 
 ---
 
@@ -17,7 +16,7 @@ Gaziantep Üniversitesi Elektrik-Elektronik Mühendisliği son sınıf öğrenci
 * **Diller:** Python, C++, C, MATLAB
 * **Gömülü & Donanım:** ESP32, Mikrodenetleyiciler, Analog Sinyal Koşullandırma (AFE), Güç Elektroniği, Siemens TIA Portal (PLC)
 * **Yapay Zeka & Görüntü İşleme:** OpenCV, Edge-AI, TinyML, ROS (Robot İşletim Sistemi)
-* **Web & Veri:** FastAPI, RESTful API, Streamlit, QGIS, Git, Linux
+* **Web & Veri:** FastAPI, RESTful API, Streamlit, QGIS, Git, 
 
 ---
 
