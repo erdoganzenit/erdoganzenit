@@ -1,26 +1,69 @@
-# Merhaba, Ben Erdoğan Zenit 👋
+<div align="right">
+  <a href="#"><img src="https://img.shields.io/badge/🇬🇧_English-10b981?style=for-the-badge&logoColor=white" alt="English" /></a>
+  <a href="README-tr.md"><img src="https://img.shields.io/badge/🇹🇷_Türkçe-040711?style=for-the-badge&logoColor=white" alt="Turkish" /></a>
+</div>
 
-### Elektrik-Elektronik Mühendisliği Öğrencisi | Edge-AI & Gömülü Sistemler Geliştiricisi
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:040711&height=180&section=header&text=Erdogan%20Zenit&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Electrical%20%26%20Electronics%20Engineering&descSize=18&descAlignY=65" width="100%" alt="Header Banner" />
+</div>
 
-Gaziantep Üniversitesi Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim. Gömülü sistemler, uçta yapay zeka (TinyML), bilgisayarlı görü ve biyomedikal sinyal işleme alanlarında donanım-yazılım entegrasyonu odaklı projeler geliştiriyorum.
+<div align="center">
+  <a href="https://erdoganzenit.github.io" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Edge-AI+%26+TinyML+Developer;Embedded+Systems+%26+Hardware;Computer+Vision+(OpenCV);FastAPI+Backend+Architectures" alt="Typing SVG" />
+  </a>
+</div>
 
----
+<div align="center">
+  <p><b>Developing scalable solutions to real-world engineering problems at the intersection of hardware and AI.</b></p>
+</div>
 
-### 🌐 Bağlantılarım
-* 💼 **LinkedIn:** [erdoganzenit](https://linkedin.com/in/erdoganzenit)
+<div align="center">
+  <a href="https://erdoganzenit.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/INTERACTIVE_PORTFOLIO-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/erdoganzenit" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ornek@email.com">
+    <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
+<br/>
 
----
+### 🛠️ Tech Stack & Engineering Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,fastapi,opencv,ros,matlab,arduino,raspberrypi,linux,git,vscode&perline=12" alt="Tech Icons" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/ESP32_&_Microcontrollers-050811?style=flat-square&logo=espressif&logoColor=10B981&border=10B981" />
+  <img src="https://img.shields.io/badge/Edge_AI_&_TinyML-050811?style=flat-square&logo=tensorflow&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Biomedical_DSP-050811?style=flat-square&logoColor=06b6d4" />
+  <img src="https://img.shields.io/badge/Qiskit_Quantum-050811?style=flat-square&logo=qiskit&logoColor=6366f1" />
+</div>
 
-### ⚡ Teknik Altyapı & Yetkinlikler
-* **Diller:** Python, C++, C, MATLAB
-* **Gömülü & Donanım:** ESP32, Mikrodenetleyiciler, Analog Sinyal Koşullandırma (AFE), Güç Elektroniği, Siemens TIA Portal (PLC)
-* **Yapay Zeka & Görüntü İşleme:** OpenCV, Edge-AI, TinyML, ROS (Robot İşletim Sistemi)
-* **Web & Veri:** FastAPI, RESTful API, Streamlit, QGIS, Git, 
+<br/>
 
----
+### 🚀 Featured Projects & R&D
 
-### 🚀 Öne Çıkan Projelerim
-* **Wearable ECG/EMG & Edge-AI:** Giyilebilir biyometrik sinyal işleme ve mikrodenetleyici üzerinde (TinyML) anlık sınıflandırma sağlayan bitirme projesi.
-* **Spectra-CH4 TR:** Sentinel-2 uydu verilerini kullanarak metan emisyonlarını takip eden Streamlit tabanlı veri görselleştirme aracı.
-* **FastAPI Task Manager:** Swagger dokümantasyonuna sahip, yüksek performanslı ve asenkron bellek içi görev yönetimi CRUD API sistemi ([GitHub Repo](https://github.com/erdoganzenit/crud-api)).
+| Project / System | Focus Area | Technologies Used |
+| :--- | :--- | :--- |
+| **🫀 Wearable ECG/EMG & Edge-AI** | Biomedical Signal Processing | `ESP32` `TinyML` `C/C++` |
+| **🛰️ Spectra-CH4 TR** | Satellite Data Analytics | `Python` `Sentinel-2` `Streamlit` |
+| **⚡ FastAPI Task Manager** | Backend & RESTful API | `FastAPI` `Pydantic` `Python` |
+| **🗺️ Rural Line Optimization** | Geospatial Algorithm (SPARK) | `Python` `QGIS` |
+
+<br/>
+
+### 📈 GitHub Live Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erdoganzenit&show_icons=true&hide_border=true&bg_color=040711&title_color=10B981&icon_color=6366F1&text_color=94a3b8" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdoganzenit&layout=compact&hide_border=true&bg_color=040711&title_color=10B981&text_color=94a3b8" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=erdoganzenit&theme=dark&hide_border=true&background=040711&ring=10B981&fire=10B981&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=94a3b8" width="100%" alt="GitHub Streak" />
+</div>
