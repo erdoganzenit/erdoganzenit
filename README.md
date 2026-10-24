@@ -1,33 +1,31 @@
-<!-- 1. ANIMATED WAVING HEADER BANNER -->
+<!-- 1. ANIMATED WAVING HEADER BANNER (FIXED URL - NO BROKEN LINK) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:040711&height=180&section=header&text=Erdogan%20Zenit&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Electrical%20%26%20Electronics%20Engineering%20Student&descSize=18&descAlignY=65" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:040711&height=185&section=header&text=Erdogan%20Zenit&fontSize=54&fontColor=ffffff&animation=fadeIn&desc=Electrical%20and%20Electronics%20Engineering%20Student&descSize=18&descAlignY=66" width="100%" alt="Header Banner" />
 </div>
 
-<!-- 2. HERO SECTION: TYPING + STEAMBOAT WILLIE INTEGRATED SCENE -->
-<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td align="center" width="60%">
-      <a href="https://erdoganzenit.github.io" target="_blank">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Edge-AI+%26+TinyML+Developer;Embedded+Systems+%26+Hardware+Design;Computer+Vision+(OpenCV);FastAPI+Backend+Architectures" alt="Typing SVG" />
-      </a>
-      <p align="center">
-        <b>Building scalable solutions for real-world engineering problems at the intersection of hardware and AI.</b>
-      </p>
-      <p align="center">
-        <a href="https://erdoganzenit.github.io" target="_blank">
-          <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=google-chrome&logoColor=040711" alt="Portfolio" />
-        </a>
-        <a href="https://linkedin.com/in/erdoganzenit" target="_blank">
-          <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-      </p>
-    </td>
-    <td align="center" width="40%">
-      <!-- Official Wikimedia Commons 1928 Steamboat Willie Whistling Scene -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/Steamboat_Willie_%281928%29_by_Walt_Disney.webm/Steamboat_Willie_%281928%29_by_Walt_Disney.webm.480p.vp9.webm" width="100%" alt="Steamboat Willie" />
-    </td>
-  </tr>
-</table>
+<!-- 2. ANIMATED TYPING EFFECT -->
+<div align="center">
+  <a href="https://erdoganzenit.github.io" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Edge-AI+%26+TinyML+Developer;Embedded+Systems+%26+Hardware+Design;Computer+Vision+(OpenCV)+%26+DSP;FastAPI+Backend+Architectures" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- 3. STEAMBOAT WILLIE ANIMATION (LOADS DIRECTLY FROM YOUR REPO) -->
+<div align="center">
+  <!-- Repona yüklediğin mickey.gif burada otomatik oynar -->
+  <img src="./mickey.gif" width="260" alt="Steamboat Willie" />
+  <p><b>Building scalable solutions for real-world engineering problems at the intersection of hardware and AI.</b></p>
+</div>
+
+<!-- 4. SOCIAL & PORTFOLIO BUTTONS -->
+<div align="center">
+  <a href="https://erdoganzenit.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=google-chrome&logoColor=040711" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/erdoganzenit" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 <br/>
 
@@ -37,7 +35,7 @@
   <br/><br/>
   <img src="https://img.shields.io/badge/ESP32_&_Microcontrollers-050811?style=flat-square&logo=espressif&logoColor=10B981" />
   <img src="https://img.shields.io/badge/Edge_AI_&_TinyML-050811?style=flat-square&logo=tensorflow&logoColor=10B981" />
-  <img src="https://img.shields.io/badge/Biomedical_DSP-050811?style=flat-square&logo=analogdevices&logoColor=06b6d4" />
+  <img src="https://img.shields.io/badge/Biomedical_DSP-050811?style=flat-square&logoColor=06b6d4" />
   <img src="https://img.shields.io/badge/Qiskit_Quantum-050811?style=flat-square&logo=qiskit&logoColor=6366f1" />
 </div>
 
@@ -63,10 +61,10 @@
 
 <br/>
 
-<!-- 5. ANIMATED BOTTOM BAR (FULL-WIDTH RUNNING STRIP + WAVE) -->
+<!-- 5. ANIMATED BOTTOM BAR & CHARACTER STRIP -->
 <div align="center">
-  <!-- Dynamic Moving Bottom Strip -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=4000&pause=500&color=10B981&background=040711&center=true&vCenter=true&width=900&height=45&lines=%E2%9A%93+STEAMBOAT+WILLIE+MODE%3A+ON+%7C+FULL+STEAM+AHEAD+IN+EMBEDDED+AI+%E2%9A%93;%F0%9F%8E%B5+WHISTLING+THROUGH+C%2FC%2B%2B%2C+PYTHON+%26+HARDWARE+DESIGN+%F0%9F%8E%B5" width="100%" alt="Animated Bar" />
-  <!-- Waving Footer Bar -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040711,100:10B981&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <!-- Eğer en altta yürüyen karakter GIF'i yüklediysen burası oynatır -->
+  <img src="./mickey-bar.gif" width="100%" alt="" />
+  <!-- Hareketli Kapanış Dalgası -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:040711&height=110&section=footer" width="100%" alt="Footer Banner" />
 </div>
